@@ -5,8 +5,7 @@ order: 4
 ---
 
 
-My name is Nick, and I'm a learning enthusiast. I wasn't always this way. I struggled with learning for most of my life, but that started to change in
-2016. Buckle up, kids... This is a not-so-exciting story about a guy that learned how to learn and became obsessed.
+My name is Nick, and I'm a learning enthusiast. I wasn't always this way. I struggled with learning for most of my life, but that started to change in 2016. Buckle up, kids... This is a not-so-exciting story about a guy that learned how to learn and became obsessed.
 
 A little backstory; After graduating high school, I went straight to work in the construction industry, working my way up to a project manager and licensed 
 contractor. Somewhere along the way, I decided to simultaneously open and operate a business. That was fun. Not really, but it was filled with valuable 
