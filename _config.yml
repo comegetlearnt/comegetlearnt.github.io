@@ -29,10 +29,13 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: comegetlearnt # change to your github username
+  username: nareyes # change to your github username
+ 
+linkedin:
+  username: na-reyes
 
-twitter:
-  username: twitter_username # change to your twitter username
+# twitter:
+#   username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
@@ -42,10 +45,10 @@ social:
   links:
     # The first element serves as the copyright owner's link
     # https://twitter.com/username # change to your twitter homepage
-    - https://github.com/nareyes # change to your github homepage
+    # - https://github.com/nareyes # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/na-reyes
+    # - https://www.linkedin.com/in/na-reyes
 
 google_site_verification: # fill in to your verification string
 
